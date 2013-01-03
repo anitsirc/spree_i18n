@@ -317,7 +317,7 @@ da:
   cancel_my_account: Nedlæg min konto
   cancel_my_account_description: "Utilfreds?"
   canceled: Annulleret
-  cannot_create_payment_without_payment_methods: You cannot create a payment for an order without any payment methods defined.
+  cannot_create_payment_without_payment_methods: Du kan ikke skabe en betaling for en ordre uden valgt betalingsmetode
   cannot_create_returns: "Kan ikke returnere ordren, eftersom den endnu ikke er leveret."
   cannot_perform_operation: "Kan ikke udføre den ønskede operation"
   capture: hæv beløb (capture)
@@ -559,7 +559,7 @@ da:
     path: Path
   last_name: "Efternavn"
   last_name_begins_with: "Efternavn begynder med"
-  learn_more: Learn More
+  learn_more: Læs mere
   leave_blank_to_not_change: "(efterlad tomt, hvis du ikke vil ændre det)"
   list: Liste
   listing_categories: "Viser kategorier"
@@ -595,7 +595,7 @@ da:
     all: "All"
     none: "None"
     one: "One"
-  match_rule: "Products That Must Match:"
+  match_rule: "Varer der skal matche:"
   max_items: Maksimalt antal varer
   meta_description: "Metabeskrivelse"
   meta_keywords: "Metanøgleord"
@@ -644,7 +644,7 @@ da:
   no: "Nej"
   no_items_in_cart: "Indkøbskurv er tom."
   no_match_found: "Ingen match blev fundet"
-  no_products_found: "Ingen vareer fundet"
+  no_products_found: "Ingen varer fundet"
   no_results: "Ingen resultater"
   no_rules_added: Ingen regler tilføjet
   no_user_found: "Der blev ikke fundet nogen bruger med denne emailadresse"
