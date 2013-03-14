@@ -55,7 +55,7 @@ da:
         email: Email
         ip_address: IP-adresse
         item_total: Varetotal
-        number: Antal
+        number: Ordrenummer
         payment_state: Betalingsstatus
         shipment_state: Leveringsstatus
         special_instructions: Særlige forhold
@@ -709,7 +709,7 @@ da:
     awaiting_return: afventer returnering
     canceled: annulleret
     cart: indkøbskurv
-    complete: afslut
+    complete: afsluttet
     confirm: bekræft
     delivery: levering
     payment: betaling
@@ -1031,7 +1031,7 @@ da:
   server: Server
   server_error: "Serveren returnerede en fejl"
   settings: Indstillinger
-  ship: lever
+  ship: levér
   ship_address: "Leverings adresse"
   shipment: Levering
   shipment_details: Leveringsdetaljer
