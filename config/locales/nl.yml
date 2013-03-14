@@ -1,6 +1,6 @@
 nl:
-  'no': "Nee"
-  'yes': "Ja"
+  say_no: "Nee"
+  say_yes: "Ja"
   5_biggest_spenders: "5 grootste klanten"
   a_copy_of_all_mail_will_be_sent_to_the_following_addresses: "Een kopie van alle mail wordt verzonden naar de volgende adressen"
   abbreviation: "Afkorting"

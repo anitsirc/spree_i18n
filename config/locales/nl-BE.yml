@@ -48,7 +48,7 @@ nl-BE:
       spree/option_type: 
         name: Name
         presentation: Presentation
-      spree/order: 
+      spree/order:
         checkout_complete: "Checkout Complete"
         completed_at: "Completed At"
         created_at: Order Date
@@ -61,23 +61,23 @@ nl-BE:
         special_instructions: "Special Instructions"
         state: State
         total: Total
-      spree/order/bill_address:
-          address1: "Billing address street"
-          city: "Billing address city"
-          firstname: "Billing address first name"
-          lastname: "Billing address last name"
-          phone: "Billing address phone"
-          state: "Billing address state"
-          zipcode: "Billing address zipcode"
-      spree/order/ship_address:
-          address1: "Shipping address street"
-          city: "Shipping address city"
-          firstname: "Shipping address first name"
-          lastname: "Shipping address last name"
-          phone: "Shipping address phone"
-          state: "Shipping address state"
-          zipcode: "Shipping address zipcode"
-      spree/payment_method: 
+      spree/order/bill_address: 
+        address1: "Billing address street"
+        city: "Billing address city"
+        firstname: "Billing address first name"
+        lastname: "Billing address last name"
+        phone: "Billing address phone"
+        state: "Billing address state"
+        zipcode: "Billing address zipcode"
+      spree/order/ship_address: 
+        address1: "Shipping address street"
+        city: "Shipping address city"
+        firstname: "Shipping address first name"
+        lastname: "Shipping address last name"
+        phone: "Shipping address phone"
+        state: "Shipping address state"
+        zipcode: "Shipping address zipcode"
+      spree/payment_method:
         name: Name
       spree/product: 
         available_on: "Available On"
@@ -622,7 +622,7 @@ nl-BE:
   new_variant: "Nieuwe Variant"
   new_zone: "Nieuwe Zone"
   next: Volgende
-  no: "No"
+  say_no: "No"
   no_items_in_cart: "Geen producten in Winkelmandje"
   no_match_found: "Geen gelijke gevonden"
   no_products_found: "Geen producten gevonden"
@@ -1074,13 +1074,14 @@ nl-BE:
   sold: Verkocht
   sort_ordering: "Sorteervolgorde"
   special_instructions: "Speciale Instructies"
-  spree: 
   spree/order: 
     coupon_code: Coupon Code
-    date: Datum
+  spree: 
+    date: Date
     date_picker: 
-      format: 'yy/mm/dd'
-    time: Tijd
+      format: ! '%Y/%m/%d'
+      js_format: 'yy/mm/dd'
+    time: Time
   spree_alert_checking: "Check for Spree security and release alerts"
   spree_alert_not_checking: "Not checking for Spree security and release alerts"
   spree_gateway_error_flash_for_checkout: "There was a problem with your payment information. Please check your information and try again."
@@ -1195,7 +1196,7 @@ nl-BE:
   whats_this: "Wat is dit"
   width: Breedte
   year: "Jaar"
-  yes: "Yes"
+  say_yes: "Yes"
   you_have_been_logged_out: "Je werd uitgelogd."
   you_have_no_orders_yet: "You have no orders yet."
   your_cart_is_empty: "Uw winkelmandje is leeg"

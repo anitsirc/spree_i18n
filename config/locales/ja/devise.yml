@@ -1,4 +1,12 @@
 ja:
+  logged_in_as: "Logged in as"
+  logged_in_succesfully: "Logged in successfully"
+  logged_out: "You have been logged out."
+  login: 'ログイン'
+  login_as_existing: "Login as Existing Customer"
+  login_failed: "Login authentication failed."
+  login_name: 'ログイン'
+  logout: 'ログアウト'
   errors:
     messages:
       not_found: 'は見つかりません。'
@@ -21,8 +29,8 @@ ja:
         send_instructions: 'パスワードのリセット方法を数分以内にメールでご連絡します。'
         updated: 'パスワードを変更しました。現在ログイン中です。'
     confirmations:
-      confirmed: アカウントを登録しました。
       send_instructions: 登録方法を数分以内にメールでご連絡します。
+      confirmed: アカウントを登録しました。
     user_registrations:
       signed_up: 'ようこそ！アカウント登録を受け付けました。'
       inactive_signed_up: 'アカウント登録を受け付けました。しかし、以下の理由によりログインできません：%{reason}'

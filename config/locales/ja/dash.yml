@@ -1,8 +1,8 @@
-en:
-  agree_to_terms_of_service: Agree to Terms of Service
-  agree_to_privacy_policy: Agree to Privacy Policy
-  already_signed_up_for_analytics: You have already signed up for Spree Analytics
-  successfully_signed_up_for_analytics: Successfully signed up for Spree Analytics
+ja:
+  agree_to_terms_of_service: 利用規約に同意してください
+  agree_to_privacy_policy: プライバシーポリシーに同意してください
+  already_signed_up_for_analytics: Spree Analyticsに登録済みです
+  successfully_signed_up_for_analytics: Spree Analyticsに登録されました
   analytics_desc_header_1: Spree Analytics
   analytics_desc_header_2: Live analytics integrated into your Spree dashboard
   analytics_desc_list_1: Get live sales information as it happens
