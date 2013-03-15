@@ -335,8 +335,10 @@ sv:
   charged: Charged # Eng
   charges: Charges # Eng
   checkout: Kassa
+  check_for_spree_alerts: "[Check for Spree alerts]"
   cheque: Check
   choose_currency: Välj valuta
+  choose_dashboard_locale: "[Choose dashboard language]"
   city: Stad
   clone: Klona
   code: Kod
@@ -436,6 +438,7 @@ sv:
   enable_login_via_login_password: "Använd epost/lösenord"
   enable_login_via_openid: "Använd OpenID istället"
   enable_mail_delivery: Aktivera skickning av mail
+  end: "[Slut]"
   ending_in: "Ending in"
   enter_at_least_five_letters: Enter at least five letters of customer name
   enter_exactly_as_shown_on_card: Var god skriv in exakt som det står på kortet
@@ -474,6 +477,7 @@ sv:
   extension: Utökning
   extensions: Utökningar
   filename: Filnamn
+  filter_results: "[Filter results]"
   final_confirmation: "Slutgiltig bekräftelse"
   finalize: Fastställ
   finalized_payments: Fastställda betalningar
@@ -559,7 +563,7 @@ sv:
   listing_option_types: "Visa alternativtyper"
   listing_orders: "Visa ordrar"
   listing_product_groups: "Visa produktgrupper"
-  listing_products: "Listing Products"
+  listing_products: "[Listing Products]"
   listing_reports: "Visa alla rapporter"
   listing_tax_categories: "Visa alla momssatser"
   listing_users: "Visa alla användare"
@@ -999,6 +1003,7 @@ sv:
   s3_used_for_product_images: "S3 is being used for product images"
   sales_tax: "moms"
   sales_total: "Total försäljning"
+  sales_totals: "Total försäljning"
   sales_total_description: "Total försäljning på alla ordrar"
   save_and_continue: "Spara och Fortsätt"
   save_preferences: "Spara Inställningarna"
@@ -1066,7 +1071,7 @@ sv:
   show_deleted: "Visa borttagna"
   show_incomplete_orders: "Visa ej genomförda beställningar"
   show_only_complete_orders: "Visa endast genomförda beställningar"
-  show_only_unfulfilled_orders: "Show only unfulfilled orders"
+  show_only_unfulfilled_orders: "[Show only unfulfilled orders]"
   show_out_of_stock_products: "Visa produkter som inte finns i lager"
   showing_first_n: "Visar första %{n}"
   sign_up: "Bli medlem"

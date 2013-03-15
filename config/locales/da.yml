@@ -450,6 +450,7 @@ da:
   empty: "Tom"
   empty_cart: "Tom indkøbskurv"
   enable_mail_delivery: Aktiver afsendelse af e-mail
+  end: Slut
   ending_in: "Slutter med"
   enter_at_least_five_letters: Indtast mindst fem tegn fra kundens navn
   enter_exactly_as_shown_on_card: Indtast præcis som det står på kortet
@@ -1020,6 +1021,7 @@ da:
   s3_used_for_product_images: "S3 er i brug til varebilleder"
   sales_tax: "Salgsmoms"
   sales_total: "Samlet salg"
+  sales_totals: "Samlet salg"
   sales_total_description: "Samlet salg af alle ordre"
   save_and_continue: Gem og fortsæt
   save_preferences: Gem indstillinger
@@ -1046,11 +1048,7 @@ da:
   ship_address: "Leverings adresse"
   shipment: Levering
   shipment_details: Leveringsdetaljer
-<<<<<<< HEAD
-  shipment_inc_vat: "Shipment including VAT"
-=======
   shipment_inc_vat: Inkluder moms i leveringsomkostninger
->>>>>>> bd8015af007c5cd4e5dd07b3fe9d9668e91af7db
   shipment_mailer:
     shipped_email:
       dear_customer: "Dear Customer,"
@@ -1214,7 +1212,7 @@ da:
   validate_on_profile_create: Validerer når profile oprettes
   validation:
     cannot_be_less_than_shipped_units: "kan ikke være mindre end antallet af leverede enheder."
-    cannot_destory_line_item_as_inventory_units_have_shipped: "Kan ikke slette vareline fordi nogle dele er afsendt."
+    cannot_destroy_line_item_as_inventory_units_have_shipped: "Kan ikke slette vareline fordi nogle dele er afsendt."
     exceeds_available_stock: Overskrider tilgængelig beholdning. Du bør sikre dig varer har et gyldigt antal
     is_too_large: "er for stor – der er ikke nok på lager!"
     must_be_int: "skal være et heltal"
