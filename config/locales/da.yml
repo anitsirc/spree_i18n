@@ -450,6 +450,7 @@ da:
   empty: "Tom"
   empty_cart: "Tom indkøbskurv"
   enable_mail_delivery: Aktiver afsendelse af e-mail
+  end: Slut
   ending_in: "Slutter med"
   enter_at_least_five_letters: Indtast mindst fem tegn fra kundens navn
   enter_exactly_as_shown_on_card: Indtast præcis som det står på kortet
@@ -1020,6 +1021,7 @@ da:
   s3_used_for_product_images: "S3 er i brug til varebilleder"
   sales_tax: "Salgsmoms"
   sales_total: "Samlet salg"
+  sales_totals: "Samlet salg"
   sales_total_description: "Samlet salg af alle ordre"
   save_and_continue: Gem og fortsæt
   save_preferences: Gem indstillinger
