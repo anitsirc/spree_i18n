@@ -53,10 +53,10 @@ da:
         checkout_complete: Købsforløb gennemført
         completed_at: Gennemført
         created_at: Oprettet
-        email: E-mail-adresse
+        email: Email
         ip_address: IP-adresse
         item_total: Varetotal
-        number: Antal
+        number: Ordrenummer
         payment_state: Betalingsstatus
         shipment_state: Leveringsstatus
         special_instructions: Særlige forhold
@@ -245,11 +245,11 @@ da:
   adjustments: Justeringer
   admin:
     mail_methods:
-      send_testmail: 'Send test-e-mail'
+      send_testmail: 'Send test e-mail'
       testmail:
-        delivery_error: 'Fejl ved aflevering af test-e-mail'
-        delivery_success: 'Test-e-mail afsendt'
-        error: 'Test-e-mail fejl: %{e}'
+        delivery_error: 'Fejl ved aflevering af test email'
+        delivery_success: 'Test email afsendt'
+        error: 'Test email fejl: %{e}'
   administration: Administration
   all: "Alle"
   all_adjustments_closed: Alle justeringer lukkede
@@ -1044,11 +1044,15 @@ da:
   server: Server
   server_error: "Serveren returnerede en fejl"
   settings: Indstillinger
-  ship: lever
+  ship: levér
   ship_address: "Leverings adresse"
   shipment: Levering
   shipment_details: Leveringsdetaljer
+<<<<<<< HEAD
+  shipment_inc_vat: "Shipment including VAT"
+=======
   shipment_inc_vat: Inkluder moms i leveringsomkostninger
+>>>>>>> bd8015af007c5cd4e5dd07b3fe9d9668e91af7db
   shipment_mailer:
     shipped_email:
       dear_customer: "Dear Customer,"
@@ -1091,7 +1095,7 @@ da:
   show_only_complete_orders: "Vis kun afsluttede ordrer"
   show_only_unfulfilled_orders: "Vis kun uafsluttede ordrer"
   show_out_of_stock_products: "Vis varer der ikke er på lager"
-  show_rate_in_label: Vis sats i label
+  show_rate_in_label: Vis sats i beskrivelse
   showing_first_n: "Vis første %{n}"
   sign_up: "Bliv medlem"
   site_name: "Hjemmesidens navn"
@@ -1110,6 +1114,8 @@ da:
   sort_ordering: "Sorteringsrækkefølge"
   special_instructions: "Specielle instrukser"
   spree:
+  spree/order:
+    coupon_code: Coupon Code
     date: Dato
     date_picker:
       format: ! '%Y/%m/%d'
@@ -1210,7 +1216,7 @@ da:
   validate_on_profile_create: Validerer når profile oprettes
   validation:
     cannot_be_less_than_shipped_units: "kan ikke være mindre end antallet af leverede enheder."
-    cannot_destroy_line_item_as_inventory_units_have_shipped: "Cannot destory line item as some inventory units have shipped."
+    cannot_destory_line_item_as_inventory_units_have_shipped: "Kan ikke slette vareline fordi nogle dele er afsendt."
     exceeds_available_stock: Overskrider tilgængelig beholdning. Du bør sikre dig varer har et gyldigt antal
     is_too_large: "er for stor – der er ikke nok på lager!"
     must_be_int: "skal være et heltal"
