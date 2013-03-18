@@ -53,18 +53,18 @@ sv:
         name: Namn
         presentation: Presentation
       spree/order:
-        checkout_complete: "Checkout Complete"
-        completed_at: "Completed At"
-        created_at: Order Date
-        email: Customer E-Mail
-        ip_address: "IP Address"
-        item_total: "Item Total"
-        number: Number
-        payment_state: Payment State
-        shipment_state: Shipment State
-        special_instructions: "Special Instructions"
-        state: State
-        total: Total
+        checkout_complete: Utcheckning genomförd
+        completed_at: Genomförd den
+        created_at: Orderdatum
+        email: Kundens email
+        ip_address: IP Adress
+        item_total: Totalt anal varor
+        number: Nummer
+        payment_state: Betalningsstatus
+        shipment_state: Fraktstatus
+        special_instructions: Specialinstruktioner
+        state: Ort
+        total: Totalt
       spree/order/bill_address: 
         address1: "Billing address street"
         city: "Billing address city"
@@ -338,7 +338,7 @@ sv:
   check_for_spree_alerts: "[Check for Spree alerts]"
   cheque: Check
   choose_currency: Välj valuta
-  choose_dashboard_locale: "[Choose dashboard language]"
+  choose_dashboard_locale: Välj språk för panelen
   city: Stad
   clone: Klona
   code: Kod
@@ -438,7 +438,7 @@ sv:
   enable_login_via_login_password: "Använd epost/lösenord"
   enable_login_via_openid: "Använd OpenID istället"
   enable_mail_delivery: Aktivera skickning av mail
-  end: "[Slut]"
+  end: Klar
   ending_in: "Ending in"
   enter_at_least_five_letters: Enter at least five letters of customer name
   enter_exactly_as_shown_on_card: Var god skriv in exakt som det står på kortet
@@ -563,7 +563,7 @@ sv:
   listing_option_types: "Visa alternativtyper"
   listing_orders: "Visa ordrar"
   listing_product_groups: "Visa produktgrupper"
-  listing_products: "[Listing Products]"
+  listing_products: Produktlista
   listing_reports: "Visa alla rapporter"
   listing_tax_categories: "Visa alla momssatser"
   listing_users: "Visa alla användare"
@@ -1071,7 +1071,7 @@ sv:
   show_deleted: "Visa borttagna"
   show_incomplete_orders: "Visa ej genomförda beställningar"
   show_only_complete_orders: "Visa endast genomförda beställningar"
-  show_only_unfulfilled_orders: "[Show only unfulfilled orders]"
+  show_only_unfulfilled_orders: Visa bara icke genomförda ordrar
   show_out_of_stock_products: "Visa produkter som inte finns i lager"
   showing_first_n: "Visar första %{n}"
   sign_up: "Bli medlem"
@@ -1098,7 +1098,7 @@ sv:
       format: ! '%Y/%m/%d'
       js_format: 'yy/mm/dd'
     time: Time
-  spree_alert_checking: "Check for Spree security and release alerts"
+  spree_alert_checking: Kontrollera om Spree säkerhetsuppdateringar finns
   spree_alert_not_checking: "Not checking for Spree security and release alerts"
   spree_gateway_error_flash_for_checkout: "Det var ett problem med din betalningsinformation. Se över din information och försök igen."
   spree_inventory_error_flash_for_insufficient_quantity: "An item in your cart has become unavailable."
